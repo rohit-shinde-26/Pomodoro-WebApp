@@ -4,44 +4,50 @@ A beautiful, feature-rich Pomodoro timer application built with React and TypeSc
 
 ## 🌐 Live Demo
 
-
+https://pomodoro-web-app-black.vercel.app/
 
 ## ✨ Features
 
 ### Timer & Focus
+
 - **Customizable Pomodoro Timer** - Adjust focus and break durations (1-60 min)
 - **Focus Mode** - Press `F` to hide distractions and focus on the timer
 - **Smart Time Snapping** - Timer adjusts in clean intervals (1, 5, 10, 15...)
 - **Timer Presets** - Classic (25/5), Deep Work (50/10), Quick Tasks (15/3)
 
 ### Productivity Tracking
+
 - **Streak Counter** 🔥 - Track your daily consistency
 - **Weekly Charts** - Visualize your last 7 days of progress
 - **Session Statistics** - Total pomodoros, focus time, completed tasks
 - **Daily Goals** - Set and track your daily session targets
 
 ### Task Management
+
 - **Task List** - Create, edit, and complete tasks
 - **Color Coding** - Assign colors to categorize tasks
 - **Preset Quick Add** - One-click task creation (Coding, Study, Gaming, etc.)
 - **Task Progress** - Track pomodoros per task
 
 ### Customization
+
 - **5 Theme Colors** - Red, Orange, Green, Blue, Purple
 - **Browser Notifications** - Get notified when sessions complete
 - **Sound Alerts** - Customizable alarm and ambient sounds
 - **Motivational Quotes** - Random quotes that refresh on reset
 
 ### Authentication
+
 - **Supabase Auth** - Secure email/password authentication
 - **User Profiles** - Personalized experience with your name
 
 ### Keyboard Shortcuts
-| Key | Action |
-|-----|--------|
-| `Space` | Start/Pause timer |
-| `R` | Reset timer |
-| `F` | Toggle Focus Mode |
+
+| Key       | Action              |
+| --------- | ------------------- |
+| `Space`   | Start/Pause timer   |
+| `R`       | Reset timer         |
+| `F`       | Toggle Focus Mode   |
 | `←` / `→` | Cycle through modes |
 | `↑` / `↓` | Adjust timer ±5 min |
 
@@ -57,6 +63,7 @@ A beautiful, feature-rich Pomodoro timer application built with React and TypeSc
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js 18+
 - npm or yarn
 - Supabase account (for auth)
@@ -66,7 +73,7 @@ A beautiful, feature-rich Pomodoro timer application built with React and TypeSc
 ```bash
 # Clone the repository
 git clone https://github.com/rohit-shinde-26/Pomodoro-WebApp.git
-cd pomodoro-app
+cd Pomodoro-WebApp
 
 # Install dependencies
 npm install
