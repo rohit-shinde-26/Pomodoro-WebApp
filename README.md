@@ -110,3 +110,5 @@ MIT License - feel free to use this project for personal or commercial purposes.
 ---
 
 Made with ❤️ by [Rohit Shinde](https://github.com/rohit-shinde-26)
+
+<h1><span style="color: red;">R</span>ED<span style="color: red;">N</span>OS</h1>
